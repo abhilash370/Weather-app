@@ -34,4 +34,4 @@ submit.addEventListener("click", (e)=>{
     e.preventDefault()
     getWeather(city.value)
 })
-getWeather("Mumbai")
+getWeather("Delhi")
